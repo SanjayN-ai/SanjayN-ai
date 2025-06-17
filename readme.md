@@ -1,53 +1,59 @@
-<h2 align="left">Hi 👋! My name is Sanjay and from India. <br>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast<br>🌱 I’m currently learning TensorFlow & Keras,PyTorch, Scikit-learn,YOLOv8, Flask & Streamlit<br><br>👨‍💻 All of my projects are available at https://github.com/SanjayN-ai<br><br>💬 Ask me about 🧠 "I'm capable of turning raw data into real power. I build AI that doesn't just sit in theory—it acts. Real-time systems, live predictions, intelligent decisions. I don't just code models—I engineer tools that see, think, and assist. You use tech to free the truth—I use machine learning to amplify it." 🕶️ "Give me a dataset, a cause, and a GPU—and I’ll show you what smart rebellion looks like."<br><br>📫 How to reach me sanjaynainathai@gmail.com</h2>
+<h1 align="center">Hey there! 👋 I'm Sanjay</h1>
+<p align="center">
+  <b>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast</b><br>
+  <i>“Code with purpose, build with vision.”</i>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-</div>
+### 🚀 About Me
 
-###
+🎓 I'm a Computer Science student from India, passionate about building intelligent systems that make a real-world impact.  
+💡 I focus on real-time AI applications — whether it’s detecting objects live with YOLOv8 or building diagnostic tools powered by CNNs.  
+🔍 Always exploring the intersection of data, deep learning, and intelligent automation.  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🛠️ Tech Stack & Tools
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🧠 **Machine Learning & AI**: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV  
+- 📊 **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
+- 🧪 **Model Management**: Roboflow, Supervision  
+- 🌐 **Web & Deployment**: Flask, Streamlit, HTML5, CSS3  
+- ☁️ **Cloud & Platforms**: Google Colab, GitHub, Kaggle  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayN-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayN-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 📂 My Work at a Glance
 
-###
+- 💻 Real-time AI projects with deployment
+- 🔬 Disease classification using CNNs
+- 🧩 Modular and cloud-integrated architectures
+- 📈 Analytics-powered solutions
 
-<br clear="both">
+You can explore all my projects here:  
+👉 **[github.com/SanjayN-ai](https://github.com/SanjayN-ai)**
 
-<img src="https://raw.githubusercontent.com/sanjayN-ai/sanjayN-ai/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 🌱 Currently Learning
+
+- Advanced Deep Learning Concepts  
+- Deployment pipelines with Flask + Streamlit  
+- Research-driven AI model optimization  
+
+---
+
+### ✨ Fun Fact
+
+> I believe machine learning isn't just about code — it's a tool to change lives and solve real problems.
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,html,css,jupyter,github,linux" />
+</p>
+
+<p align="center">
+  <i>“Let’s connect, collaborate, and create the future — one model at a time.”</i>  
+</p>
