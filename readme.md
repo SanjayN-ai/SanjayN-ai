@@ -21,12 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanjayN-ai.sanjayN-ai&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋 I'm Sanjay<br>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast<br>“Code with purpose, build with vision.”</h1>
 
 ###
@@ -35,7 +29,19 @@
 
 ###
 
-<p align="left">🛠️ Tech Stack & Tools<br>🧠 Machine Learning & AI: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV<br>📊 Data Science: Pandas, NumPy, Matplotlib, Seaborn<br>🧪 Model Management: Roboflow, Supervision<br>🌐 Web & Deployment: Flask, Streamlit, HTML5, CSS3<br>☁️ Cloud & Platforms: Google Colab, GitHub, Kaggle<br>📂 My Work at a Glance<br>💻 Real-time AI projects with deployment<br>🔬 Disease classification using CNNs<br>🧩 Modular and cloud-integrated architectures<br>📈 Analytics-powered solutions<br>You can explore all my projects here:<br>👉 github.com/SanjayN-ai<br><br>🌱 Currently Learning<br>Advanced Deep Learning Concepts<br>Deployment pipelines with Flask + Streamlit<br>Research-driven AI model optimization</p>
+<h3 align="left">🛠️ Tech Stack & Tools</h3>
+
+###
+
+<p align="left">🧠 Machine Learning & AI: TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV<br>📊 Data Science: Pandas, NumPy, Matplotlib, Seaborn<br>🧪 Model Management: Roboflow, Supervision<br>🌐 Web & Deployment: Flask, Streamlit, HTML5, CSS3<br>☁️ Cloud & Platforms: Google Colab, GitHub, Kaggle<br>📂 My Work at a Glance<br>💻 Real-time AI projects with deployment<br>🔬 Disease classification using CNNs<br>🧩 Modular and cloud-integrated architectures<br>📈 Analytics-powered solutions</p>
+
+###
+
+<h3 align="left">🌱 Currently Learning</h3>
+
+###
+
+<p align="left">Advanced Deep Learning Concepts<br>Deployment pipelines with Flask + Streamlit<br>Research-driven AI model optimization</p>
 
 ###
 
@@ -71,16 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjayN-ai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
