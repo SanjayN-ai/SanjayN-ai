@@ -44,8 +44,10 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Sanjay<br>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast<br><p style="font-family: Georgia; font-size: 20px;">
-  Code with purpose, build with vision.
+<h1 align="center">hey there 👋 I'm Sanjay<br>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast<br><p align="center">
+  <img src="https://your-custom-font-image-url.png" alt="Code with purpose, build with vision." />
+</p>
+
 </p>
 </h1>
 
