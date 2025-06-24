@@ -81,7 +81,7 @@
 
 ###
 
-### 📈 Contribution Graph
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayN-ai/sanjayN-ai/output/pacman-contribution-graph-dark.svg">
