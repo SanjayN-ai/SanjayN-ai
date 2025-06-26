@@ -21,11 +21,19 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Sanjay<br>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast<br>“Code with purpose, build with vision.”</h1>
+<h1 align="center">hey there 👋 I'm Sanjay<br>Machine Learning Developer | Real-Time AI Projects | Analytics Enthusiast</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>🎓 I'm a Computer Science student from India, passionate about building intelligent systems that make a real-world impact.<br>💡 I focus on real-time AI applications — whether it’s detecting objects live with YOLOv8 or building diagnostic tools powered by CNNs.<br>🔍 Always exploring the intersection of data, deep learning, and intelligent automation.</h3>
+<h2 align="center">“Code with purpose, build with vision.”</h2>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">🎓 I'm a Computer Science student from India, passionate about building intelligent systems that make a real-world impact.<br>💡 I focus on real-time AI applications — whether it’s detecting objects live with YOLOv8 or building diagnostic tools powered by CNNs.<br>🔍 Always exploring the intersection of data, deep learning, and intelligent automation.</p>
 
 ###
 
@@ -81,13 +89,16 @@
 
 ###
 
+<br clear="both">
 
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayN-ai/sanjayN-ai/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjayN-ai/sanjayN-ai/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sanjayN-ai/sanjayN-ai/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
